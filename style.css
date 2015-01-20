@@ -24,19 +24,22 @@ text-align: center;
 }
 
 h1{
-font-size: 16px;
+    font-size: 16px;
 }
 
-span{
-color: #777777;
+.title span{
+    color: #777777;
+    font-size: 12px;
 }
 
 .lightblue{
     color: darkcyan;
+    font-weight: 600;
 }
 
 .coral{
     color: coral;
+    font-weight: 600;
 }
 
 .dotted_line{
