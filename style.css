@@ -110,6 +110,15 @@ padding: 10px;
 font-weight: 400;
 }
 
+.metwo p a{
+    text-decoration: none;
+    color: #3498db;
+}
+.metwo p a:hover{
+    color:#46d8d6;
+    border-bottom: 2px solid #46d8d6;
+}
+
 .portfolio{
     width: 150px;
     height: 30px;

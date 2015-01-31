@@ -1,2 +1,0 @@
-# abdoughr.github.io
-portfolio
