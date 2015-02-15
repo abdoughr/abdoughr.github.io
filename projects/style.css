@@ -150,6 +150,6 @@ vertical-align: middle;
 }
 
 .project img{
-    display: block;
+    display: inline;
     margin-right: 10px 50px;
 }
