@@ -150,5 +150,5 @@ vertical-align: middle;
 }
 
 .project img{
-    display: inline;
+    display: inline-block;
 }
