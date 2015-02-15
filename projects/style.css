@@ -149,3 +149,7 @@ vertical-align: middle;
     line-height: 1.75em;
 }
 
+.project img{
+    display: block;
+    margin-right: 10px 50px;
+}
